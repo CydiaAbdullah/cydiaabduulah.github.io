@@ -12,13 +12,13 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>123.com/caroooona:(</string>
+                    <string>https://www.dropbox.com/s/vwwvjpchhy0e3ng/VideoStar.ca.ipa?dl=1</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.twitter.twiiter</string>
+                <string>com.VideoStar.CydiaAbdullah</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
